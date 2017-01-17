@@ -10,8 +10,8 @@
 
     <title><?=$title?></title>
 
-    <meta name="description" content="Source code generated using layoutit.com">
-    <meta name="author" content="LayoutIt!">
+    <meta name="description" content="">
+    <meta name="author" content="Thomas Lant">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
