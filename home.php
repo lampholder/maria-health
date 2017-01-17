@@ -62,7 +62,7 @@
         <p>Feeling under the weather or a bit blue? Let us help you find the right services.</p>
         <ul>
             <li>NHS Health check</li>
-            <li>Meditation groups/li>
+            <li>Meditation groups</li>
             <li>Health quizes</li>
             <li>Advocacy and support groups</li>
         </ul>
