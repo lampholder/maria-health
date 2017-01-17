@@ -9,6 +9,9 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
             <li>
+                <a href="register.php">Register</a>
+            </li>
+            <li>
                 <a href="questionnaire.php">Health Questionnaire</a>
             </li>
             <li>
