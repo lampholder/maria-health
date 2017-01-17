@@ -45,7 +45,7 @@
                     <h3 class="panel-title">Register</h3>
                 </div>
                 <div class="panel-body">
-                    <form class="form" role="form">
+                    <form class="form" role="form" action="questionnaire.php">
                         <div class="form-group">
                             <label for="first_name">First name:</label>
                             <input type="text" id="first_name" class="form-control" placeholder="First name" aria-describedby="basic-addon1">

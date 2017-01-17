@@ -50,9 +50,11 @@
             <li>Montly matinée</li>
             <li>Festival of lights</li>
         </ul>
-        <button type="submit" value="Register" class="btn btn-success" id="submit">
-            Find out more
-        </button>
+        <form action="events.php">
+            <button type="submit" value="Register" class="btn btn-success" id="submit">
+                Find out more
+            </button>
+        </form>
     </div>
 
     <div class="col-md-6">
@@ -64,9 +66,11 @@
             <li>Health quizes</li>
             <li>Advocacy and support groups</li>
         </ul>
-        <button type="submit" value="Register" class="btn btn-success" id="submit">
-            Find out more
-        </button>
+        <form action="health.php">
+            <button type="submit" value="Register" class="btn btn-success" id="submit">
+                Find out more
+            </button>
+        </form>
     </div>
 
     <div class="col-md-6">
@@ -77,7 +81,7 @@
             <li>RSPCA store volunteering</li>
             <li>Driver required for Dorothy's grocery run!</li>
         </ul>
-        <button type="submit" value="Register" class="btn btn-success" id="submit">
+        <button type="submit" value="Register" class="btn" id="submit">
             Find out more
         </button>
     </div>
@@ -90,7 +94,7 @@
             <li>Making the most of your smartphone</li>
             <li>Spanish for holiday-makers</li>
         </ul>
-        <button type="submit" value="Register" class="btn btn-success" id="submit">
+        <button type="submit" value="Register" class="btn" id="submit">
             Find out more
         </button>
     </div>
@@ -102,7 +106,7 @@
             <li>Silver line</li>
             <li>Buddy text messaging</li>
         </ul>
-        <button type="submit" value="Register" class="btn btn-success" id="submit">
+        <button type="submit" value="Register" class="btn" id="submit">
             Find out more
         </button>
     </div>

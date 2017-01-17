@@ -48,7 +48,7 @@
                     <h3 class="panel-title">Community Needs Questionnaire</h3>
                 </div>
                 <div class="panel-body">
-                    <form class="form" role="form">
+                    <form class="form" role="form" action="home.php">
                         <div class="form-group">
                             <label for="friends">How often do you meet friends/family in a week?</label>
                             <select class="form-control" id="friends">
