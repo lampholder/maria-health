@@ -27,17 +27,14 @@
         </div>
     </div>
 
-    <div class="jumbotron container-fluid">
+    <div class="row">
+        <div class="page-header col-md-8">
+            <h1>
+            Register now to hear about activities in your area!
+            </h1>
+        </div>
         <div class="col-md-2">
             <img src='images/logo.png'>
-        </div>
-        <div class="col-md-10">
-            <h2>
-                Register now to receive updates on activities in your area!
-            </h2>
-            <p>
-                This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
-            </p>
         </div>
     </div>
 

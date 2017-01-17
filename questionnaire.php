@@ -27,17 +27,17 @@
         </div>
     </div>
 
-    <div class="jumbotron container-fluid">
-        <div class="col-md-2">
-            <img src='images/logo.png'>
-        </div>
-        <div class="col-md-10">
-            <h2>
-                Community Needs Questionnaire (optional)
-            </h2>
+    <div class="row">
+        <div class="page-header col-md-8">
+            <h1>
+            Community Needs Questionnaire (optional)
+            </h1>
             <p>
                 To help provide better services and events in your region, we need to know about the lifestyle and health needs in the community. This questionnaire is <em>optional</em> and <em>anonymized</em>, and we will never share this information with other organisations.
             </p>
+        </div>
+        <div class="col-md-2">
+            <img src='images/logo.png'>
         </div>
     </div>
 

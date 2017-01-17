@@ -15,7 +15,7 @@
                 <a href="questionnaire.php">Health Questionnaire</a>
             </li>
             <li>
-                <a href="events.php">Events</a>
+                <a href="home.php">Find Activites</a>
             </li>
         </ul>
     </div>

@@ -27,14 +27,19 @@
         </div>
     </div>
 
-    <div class="page-header">
-        <h1>
-        Events in your area
-        </h1>
+    <div class="row">
+        <div class="page-header col-md-8">
+            <h1>
+            Events in your area
+            </h1>
+            <p>
+            Hi <em><?=$user?></em>, we have your region set as <em><?=$region?></em>. If that's not right, <a href="#">click here</a>.
+            </p>
+        </div>
+        <div class="col-md-2">
+            <img src='images/logo.png'>
+        </div>
     </div>
-    <p>
-    Hi <em><?=$user?></em>, we have your region set as <em><?=$region?></em>. If that's not right, <a href="#">click here</a>.
-    </p>
 
     <div class="col-md-6">
         <h2>Activities and Events</h2>
